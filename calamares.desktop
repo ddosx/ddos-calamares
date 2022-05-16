@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install ddos Linux
+Name[ru]=Инсталлер дудоса
+GenericName=Live Installer
+GenericName[ru]=Инсталлер дудоса
+Comment=Install the operating system to disk
+Comment[ru]=Установить дудос на диск
+Exec=sudo /usr/bin/calamares %f
+Icon=calamares
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=System;
